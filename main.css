@@ -57,7 +57,7 @@ header #title-header{
   font-variant:normal;  
 }
 
-li,a{	
+.f-link{	
    text-decoration:none;
 }
 
