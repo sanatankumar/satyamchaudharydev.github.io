@@ -927,8 +927,16 @@ p{
 @media screen and (max-width: 400px){
   .write{
     font-size: 11px;
-    font-weight: bold;
   }
+.fotter-link{
+    display:inline;
+    float:right;
+    word-spacing: 20px;
+    padding:15px;
+  
+
+    text-transform:uppercase
+}	
 
 }
 
