@@ -566,6 +566,11 @@ footer{
   color:green;
  
 }
+-li{
+  display:inline-block;
+   color:#62c462;
+ font-size:14px;
+	}
 .fotter-link{
 display:inline;
   float:right;
