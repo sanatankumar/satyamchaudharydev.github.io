@@ -299,6 +299,13 @@ p{
     width:250px;
     display:inline;
   }
+  .social-thing{
+      padding-left: calc(50% - 110px);   
+    
+  }
+  .overlay{
+    width: 250px;
+  }
   .pong-border{
     
     width:260px;
