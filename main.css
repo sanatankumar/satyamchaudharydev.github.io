@@ -13,7 +13,9 @@ body{
   position: fixed;
   overflow:hidden;
 }
-
+a{
+  text-decoration:none;
+}
 li.About{
   color:white;
 }
@@ -35,11 +37,11 @@ header{
   background:#000000;
   color:white;
   padding:10px 0;
- 
-   position: fixed;
-   height: 40px;
+  position: fixed;
+  height: 40px;
   width: 100%;
   border-bottom:#62c462 6px solid;
+  z-index:10;
 
 }
 header li{
